@@ -1,0 +1,26 @@
+[
+  {"id": "VISA_01", "category": "Visa/Immigration", "feature": "Legal Concept Bridge", "prompt": "I have an 'Affidavit' to prove my work experience for a China Z-Visa. Is this sufficient? / 我有一份宣誓书证明工作经验。申请中国工签够了吗？", "key_points": ["Notarization", "Legalization", "公证", "认证"]},
+  {"id": "VISA_02", "category": "Visa/Immigration", "feature": "Policy Tracker", "prompt": "Explain the 144-hour visa-free transit policy for foreigners entering Shanghai. / 解释外国人进入上海的144小时过境免签政策。", "key_points": ["Inter-line ticket", "Third country", "联程机票", "第三国"]},
+  {"id": "VISA_03", "category": "Visa/Immigration", "feature": "Risk Radar", "prompt": "I lost my passport in China. What are the immediate steps to avoid illegal stay? / 我在中国丢失了护照。为避免非法居留，紧急步骤是什么？", "key_points": ["Report to police", "Exit-Entry Administration", "报案", "出入境管理局"]},
+  {"id": "VISA_04", "category": "Visa/Immigration", "feature": "Evidence", "prompt": "How to prove my 2-year work experience for a Category B Work Permit? / 如何证明申请B类工签所需的2年工作经验？", "key_points": ["Certificate of employment", "Notarization", "工作证明", "公证"]},
+
+  {"id": "RENT_01", "category": "Housing/Rental", "feature": "Risk Radar", "prompt": "The landlord offers a discount if I skip the Police Registration (住宿登记). Is it safe? / 房东说不办住宿登记可以减房租，安全吗？", "key_points": ["Visa Fine", "Deportation", "签证罚款", "遣返"]},
+  {"id": "RENT_02", "category": "Housing/Rental", "feature": "Legal Concept Bridge", "prompt": "In my country, we have 'Tenant's Rights' to stay after the lease expires. Does China have similar protection? / 在我国家租赁到期后有留居权。中国有类似保护吗？", "key_points": ["Civil Code", "Lease renewal", "民法典", "续租"]},
+  {"id": "RENT_03", "category": "Housing/Rental", "feature": "Evidence", "prompt": "I paid the deposit via WeChat but have no paper receipt. Is the WeChat record enough to sue? / 我通过微信付了押金但没收据。微信记录足以起诉吗？", "key_points": ["WeChat preservation", "Electronic evidence", "微信存证", "电子证据"]},
+  {"id": "RENT_04", "category": "Housing/Rental", "feature": "Policy Tracker", "prompt": "Can a foreigner sub-let (转租) an apartment in China legally? / 外国人在中国合法转租公寓需要什么条件？", "key_points": ["Landlord consent", "Written agreement", "房东同意", "书面协议"]},
+
+  {"id": "LABOR_01", "category": "Labor Law", "feature": "Risk Radar", "prompt": "My contract expired but I am still working. My boss won't renew but continues to pay. Rights? / 合同到期我在工作，老板不续签但发工资。我有什么权利？", "key_points": ["Double salary", "Open-ended contract", "二倍工资", "无固定期限合同"]},
+  {"id": "LABOR_02", "category": "Labor Law", "feature": "Legal Concept Bridge", "prompt": "What is the difference between 'Labor Contract' and 'Service Agreement' (劳务合同) for expats? / 外国人的‘劳动合同’与‘劳务合同’有什么区别？", "key_points": ["Labor relationship", "Social insurance", "劳动关系", "社保"]},
+  {"id": "LABOR_03", "category": "Labor Law", "feature": "Evidence", "prompt": "My employer owes me 3 months salary. What evidence should I collect first? / 公司欠薪3个月，我应该首先收集什么证据？", "key_points": ["Attendance record", "Bank statement", "考勤记录", "银行流水"]},
+  {"id": "LABOR_04", "category": "Labor Law", "feature": "Policy Tracker", "prompt": "Can a foreigner work for two companies simultaneously in China? / 外国人可以在中国同时为两家公司工作吗？", "key_points": ["Work permit limitation", "One employer", "工签限制", "单一雇主"]},
+
+  {"id": "MARRY_01", "category": "Family Law", "feature": "Legal Concept Bridge", "prompt": "I have a 'Prenuptial Agreement' from London. Is it enforceable in a Chinese court? / 我有一份伦敦的婚前协议。中国法院认可吗？", "key_points": ["Public order", "Civil Code", "公共秩序", "民法典"]},
+  {"id": "MARRY_02", "category": "Family Law", "feature": "Risk Radar", "prompt": "What are the legal risks of 'Fake Marriage' for obtaining a Green Card in China? / 为了中国绿卡‘假结婚’的法律风险是什么？", "key_points": ["Visa fraud", "Deportation", "签证欺诈", "遣返"]},
+  {"id": "MARRY_03", "category": "Family Law", "feature": "Evidence", "prompt": "How to legally prove a 'Common Law Marriage' (Facto Marriage) in China? / 在中国如何合法证明‘事实婚姻’？", "key_points": ["Not recognized", "Registration required", "不予承认", "须登记"]},
+  {"id": "MARRY_04", "category": "Family Law", "feature": "Policy Tracker", "prompt": "What is the 'Cooling-off Period' (离婚冷静期) for foreigners divorcing in China? / 外国人在中国离婚的‘冷静期’规定是什么？", "key_points": ["30 days", "Mutual consent", "30天", "协议离婚"]},
+
+  {"id": "TAX_01", "category": "Tax Law", "feature": "Policy Tracker", "prompt": "Explain the 183-day rule for Individual Income Tax (IIT) for foreigners. / 解释外国人个税的183天规则。", "key_points": ["Tax resident", "Worldwide income", "税收居民", "全球收入"]},
+  {"id": "TAX_02", "category": "Tax Law", "feature": "Risk Radar", "prompt": "Is it legal to receive part of the salary in my offshore account without declaring tax in China? / 一部分工资发到境外账户且不报税合法吗？", "key_points": ["Tax evasion", "Compliance risk", "偷税漏税", "合规风险"]},
+  {"id": "TAX_03", "category": "Tax Law", "feature": "Evidence", "prompt": "How can I obtain my official Tax Record for permanent residence application? / 申请永居如何获取官方个税完税证明？", "key_points": ["Tax App", "Tax Bureau", "个税App", "税务局"]},
+  {"id": "TAX_04", "category": "Tax Law", "feature": "Legal Concept Bridge", "prompt": "Can I claim 'Tax Credits' for taxes paid in my home country? / 我在中国可以抵免在母国已缴纳的税款吗？", "key_points": ["Double tax treaty", "Tax credit", "税收协定", "税收抵免"]}
+]
